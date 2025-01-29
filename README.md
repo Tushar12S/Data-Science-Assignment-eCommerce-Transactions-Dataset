@@ -20,8 +20,7 @@ This repository contains **Exploratory Data Analysis (EDA)**, a **Lookalike Mode
   - **South America** has the highest number of customers.
   - **Books & Electronics** are the top-selling categories.
   - Revenue peaks in **December & July** due to promotions.
-  
-📄 Report: [Business Insights from EDA](reports/Business%20Insights%20from%20EDA.pdf)
+
 
 ---
 
@@ -29,7 +28,6 @@ This repository contains **Exploratory Data Analysis (EDA)**, a **Lookalike Mode
 - Identifies **top 3 similar customers** based on purchase behavior.
 - Uses **clustering-based similarity analysis**.
 
-📄 Output: [Lookalike Customers](outputs/Tushar_Shetty_Lookalike.csv)
 
 ---
 
@@ -38,6 +36,5 @@ This repository contains **Exploratory Data Analysis (EDA)**, a **Lookalike Mode
 - **Cluster 0:** Low spenders → Target with discounts.
 - **Cluster 1:** High-value customers → Retain with loyalty programs.
 
-📄 Report: [Customer Clustering Report](reports/Tushar_Shetty_Clustering.pdf)
 
 ---
